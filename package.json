@@ -1,0 +1,22 @@
+{
+  "name": "new-project",
+  "version": "1.0.0",
+  "description": "Este repositório foi criado para praticar e testar os conceitos aprendidos nas aulas sobre Git.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viannatech/projeto-para-aula.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viannatech/projeto-para-aula/issues"
+  },
+  "homepage": "https://github.com/viannatech/projeto-para-aula#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
