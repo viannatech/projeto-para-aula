@@ -7,3 +7,7 @@ console.log(`O nome é: ${nome}`);
 function greet(name) {
     console.log(`Hello, ${name}!`);
 }   
+
+function createProduct(){
+    return {nome: "Carro"}
+}
